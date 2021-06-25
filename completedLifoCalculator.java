@@ -7,7 +7,7 @@ import java.util.Scanner;
 /* This code is used by Elenbaas Steel Supply to calculate their LIFO insurance on steel sales.
  * Each year, this must be done, and it is tedious process. While creating this code, I asked for
  * examples of the calculations done properly. After completing this code I discovered that there
- * was not a single page done by hand that was free of errors (creating a possible legal situation).
+ * was not a single page done by hand that was free of errors.
  * The prevelance of errors is not unique to Elenbaas Steel Supply.
  * In the past, ESS had accountants and book-keepers do these calculations, which was time consuming
  * and mind numbing (their words). The book-keeper is given a series of numbers. The number of columns 
